@@ -1,4 +1,6 @@
 # Case Study-1:Telecom Customer Onboarding System
+## Problem Statement:
+Develop a Customer Onboarding System for a telecom company to streamline the process of registering new customers,verifying their documents and activating their services.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
